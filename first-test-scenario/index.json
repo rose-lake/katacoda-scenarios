@@ -1,0 +1,26 @@
+{
+  "title": "My First Test Scenario in Katacoda",
+  "description": "This is just a test scenario to learn the katacoda CLI",
+  "difficulty": "Beginner",
+  "time": "1 minute",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal-terminal"
+  },
+  "backend": {
+    "imageid": "vscode"
+  }
+}
